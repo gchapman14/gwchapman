@@ -1,0 +1,24 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 70vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+span {color: black;
+	opacity: 85%;
+font-size: 90px;
+font-family: bebas neue;
+font-weight: lighter;}
+
+body {background-color: lightblue;}
